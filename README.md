@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating applications, reports, images, animations.
 - 🌱 I’m currently learning Data analytics
 - 💞️ I’m looking to collaborate on web based projects, applications or  
-- 📫 How to reach me noelshere60@gmial.com, I dont Bite!
+- 📫 How to reach me noelshere60@gmial.com, I dont bite!
 
 <!---
 NoelShere/NoelShere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
