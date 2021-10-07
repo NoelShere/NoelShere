@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NoelShere
-- 👀 I’m interested in creating applications, reports, images, animations.
+- 👀 I’m interested in creating applications, reports and animations.
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on web based projects and applications. 
 - 😎 Add me on linkedin https://www.linkedin.com/in/noel-shere-10000
